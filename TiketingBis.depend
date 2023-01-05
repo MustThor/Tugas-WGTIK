@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1672585420 source:c:\users\user\documents\c++\tubes\gatautubesbis\tiketingbis\main.cpp
+	"queue.h"
+	"stack.h"
+
+1672585478 source:c:\users\user\documents\c++\tubes\gatautubesbis\tiketingbis\queue.cpp
+	"queue.h"
+
+1672583501 c:\users\user\documents\c++\tubes\gatautubesbis\tiketingbis\queue.h
+	<iostream>
+
+1672585564 source:c:\users\user\documents\c++\tubes\gatautubesbis\tiketingbis\stack.cpp
+	"stack.h"
+	"queue.h"
+
+1672584752 c:\users\user\documents\c++\tubes\gatautubesbis\tiketingbis\stack.h
+	"queue.h"
+
+1672599093 source:c:\code blocks\tubesbis\tiketingbis (1)\tiketingbis\main.cpp
+	"queue.h"
+	"stack.h"
+
+1672583501 c:\code blocks\tubesbis\tiketingbis (1)\tiketingbis\queue.h
+	<iostream>
+
+1672584752 c:\code blocks\tubesbis\tiketingbis (1)\tiketingbis\stack.h
+	"queue.h"
+
+1672585478 source:c:\code blocks\tubesbis\tiketingbis (1)\tiketingbis\queue.cpp
+	"queue.h"
+
+1672585564 source:c:\code blocks\tubesbis\tiketingbis (1)\tiketingbis\stack.cpp
+	"stack.h"
+	"queue.h"
+
